@@ -1,6 +1,14 @@
 # LAST_PROJECT_CODE
 # The Project Objective : Knowing which team names have defeated manchester united team ?
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Functions and concepted used in this project :
+1- Common Table Expression [CTE]
+2- Case When Statement 
+3- Joins [Left Join]
+4- Window Functions [Over , Rank]
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1- First of all : Setting up the home team CTE [In case that manchester united is the home_team]
 
