@@ -3,10 +3,10 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Functions and concepted used in this project :
-1- Common Table Expression [CTE]
-2- Case When Statement 
-3- Joins [Left Join]
-4- Window Functions [Over , Rank]
+1- Common Table Expression [CTE]  ||  
+2- Case When Statement  ||  
+3- Joins [Left Join]  ||  
+4- Window Functions [Over , Rank]  ||  
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
